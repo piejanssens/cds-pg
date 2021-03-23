@@ -39,9 +39,10 @@
   "homepage": "https://github.com/sapmentors/cds-pg#readme",
   "dependencies": {
     "@sap/cds": "~4.4",
+    "moment": "^2.29.1",
     "pg": "^8.5.1",
     "pg-format": "^1.0.4",
-    "moment": "^2.29.1"
+    "socks": "^2.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
