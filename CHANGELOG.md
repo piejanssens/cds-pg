@@ -2,6 +2,74 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.8 (2021-08-16)
+
+
+### Features
+
+* support @sap/cds 5.4 ([1755362](https://github.com/sapmentors/cds-pg/commit/17553620ee5f322b2730742527e544369be49573))
+
+### 0.1.7 (2021-08-02)
+
+
+### Features
+
+* re-using as release commit for cds 5.3 support ([#180](https://github.com/sapmentors/cds-pg/issues/180)) ([a79c37e](https://github.com/sapmentors/cds-pg/commit/a79c37e9ce010e38662deadf4768f979296ef984))
+
+### 0.1.6 (2021-06-29)
+
+### 0.1.5 (2021-06-16)
+
+
+### Bug Fixes
+
+* draft support ([#159](https://github.com/sapmentors/cds-pg/issues/159)) ([f60c391](https://github.com/sapmentors/cds-pg/commit/f60c3911597908354cb467c1fd110bad0f9ccc08)), closes [#79](https://github.com/sapmentors/cds-pg/issues/79)
+
+### 0.1.4 (2021-06-14)
+
+### 0.1.3 (2021-06-11)
+
+### 0.1.2 (2021-06-09)
+
+
+### Features
+
+* fill managed fields with username  ([#154](https://github.com/sapmentors/cds-pg/issues/154)) ([0640e13](https://github.com/sapmentors/cds-pg/commit/0640e136cb25743f0171bb9a957d2fe4f9f897c9)), closes [#153](https://github.com/sapmentors/cds-pg/issues/153)
+
+### 0.1.1 (2021-05-31)
+
+## 0.1.0 (2021-05-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* no more node <12 support!
+
+* require node 12+ for cds5 ([#141](https://github.com/sapmentors/cds-pg/issues/141)) ([14077be](https://github.com/sapmentors/cds-pg/commit/14077be8a50bfe5b922f1e49cb7a3390dd7ce9d0))
+
+### 0.0.51 (2021-05-16)
+
+### 0.0.50 (2021-05-13)
+
+### 0.0.49 (2021-05-11)
+
+### 0.0.48 (2021-05-09)
+
+### 0.0.47 (2021-05-07)
+
+### 0.0.46 (2021-05-05)
+
+### 0.0.45 (2021-05-03)
+
+### 0.0.44 (2021-03-23)
+
+
+### Bug Fixes
+
+* bump dependencies and fix failing testrun ([#103](https://github.com/sapmentors/cds-pg/issues/103)) ([f74fdec](https://github.com/sapmentors/cds-pg/commit/f74fdec888ca29c008f755984bb604852b5557fa)), closes [#102](https://github.com/sapmentors/cds-pg/issues/102)
+
+### 0.0.43 (2021-03-22)
+
 ### 0.0.42 (2021-03-02)
 
 ### 0.0.41 (2021-01-08)
