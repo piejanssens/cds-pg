@@ -46,7 +46,7 @@
     "passport": "^0.4.1",
     "pg": "^8.7.1",
     "pg-format": "^1.0.4",
-    "socks": "^2.6.0"
+    "socks": "^2.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
