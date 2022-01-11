@@ -46,7 +46,8 @@
     "moment": "^2.29.1",
     "passport": "^0.5.0",
     "pg": "^8.7.1",
-    "pg-format": "^1.0.4"
+    "pg-format": "^1.0.4",
+    "sap-cf-socks": "github:piejanssens/sap-cf-socks"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
